@@ -46,7 +46,8 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
-![image](https://github.com/user-attachments/assets/d36d3ce3-6594-4a39-9ff8-483d9736f955)
+![image](https://github.com/user-attachments/assets/77274c75-21ee-47d2-bdec-b05eec93a5fa)
+
 
 
 ### Name: DEVA ABISHEK P
