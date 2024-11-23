@@ -46,7 +46,8 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
-![image](https://github.com/user-attachments/assets/fa66b18d-abe7-49d3-a5b2-695bdec2c939)
+![image](https://github.com/user-attachments/assets/d36d3ce3-6594-4a39-9ff8-483d9736f955)
+
 
 ### Name: DEVA ABISHEK P
 ### Register Number: 212223110008
